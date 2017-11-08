@@ -5,4 +5,5 @@
 #### XSS 文章
 
 [XSS的原理分析与解剖](http://www.freebuf.com/articles/web/40520.html)
-[Black-Hole XSS](http://www.freebuf.com/author/black-hole)
+
+[Black-Hole XSS技术文章](http://www.freebuf.com/author/black-hole)
