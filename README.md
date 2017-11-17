@@ -9,3 +9,9 @@
 [Black-Hole XSS技术文章](http://www.freebuf.com/author/black-hole)
 
 [Bypass xss过滤的测试方法](https://wooyun.js.org/drops/Bypass%20xss%E8%BF%87%E6%BB%A4%E7%9A%84%E6%B5%8B%E8%AF%95%E6%96%B9%E6%B3%95.html)
+
+#### XSS 练习网站
+
+[http://xss-quiz.int21h.jp/](http://xss-quiz.int21h.jp/)
+
+[https://xss-game.appspot.com/](https://xss-game.appspot.com/)
